@@ -2,7 +2,7 @@
 
 A simple and elegant To-Do List app built using Flutter. This app allows users to manage their tasks with ease, including features for adding, editing, and deleting tasks, as well as searching and filtering tasks.
 
-## Features
+## Description
 
 - **Add Tasks**: Easily add new tasks with a description and optional due date and time.
 - **Edit Tasks**: Modify existing tasks with new descriptions and due dates.
@@ -12,4 +12,6 @@ A simple and elegant To-Do List app built using Flutter. This app allows users t
 - **Clear Completed Tasks**: Remove all completed tasks from the list.
 
 ## APP Preview
-![GIF_20240907_233905_475](https://github.com/user-attachments/assets/511e58ed-96be-4108-a805-50c3e8263753)
+
+![GIF_20240909_114517_193](https://github.com/user-attachments/assets/af2ef122-fed5-4d08-8e85-bf680e8fc8d7)
+
