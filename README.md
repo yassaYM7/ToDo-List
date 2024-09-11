@@ -12,3 +12,4 @@ A simple and elegant To-Do List app built using Flutter. This app allows users t
 - **Clear Completed Tasks**: Remove all completed tasks from the list.
 
 ## APP Preview
+![GIF_20240911_100731_739](https://github.com/user-attachments/assets/15c7ff08-9a14-485e-b7e9-251bb88898f8)
