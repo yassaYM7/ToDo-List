@@ -1,4 +1,4 @@
-# To-Do List App
+![GIF_20240912_115528_674](https://github.com/user-attachments/assets/3790290c-5522-42bd-9939-61eb9c57ea17)# To-Do List App
 
 A simple and elegant To-Do List app built using Flutter. This app allows users to manage their tasks with ease, including features for adding, editing, and deleting tasks, as well as searching and filtering tasks.
 
@@ -12,4 +12,9 @@ A simple and elegant To-Do List app built using Flutter. This app allows users t
 - **Clear Completed Tasks**: Remove all completed tasks from the list.
 
 ## APP Preview
-![GIF_20240911_100731_739](https://github.com/user-attachments/assets/15c7ff08-9a14-485e-b7e9-251bb88898f8)
+
+
+![IMG-20240912-WA0005](https://github.com/user-attachments/assets/1501fe0c-0ea4-4a91-83be-e3e8850fe7cc)
+![IMG-20240912-WA0006](https://github.com/user-attachments/assets/de0e4910-6dcb-4878-afc1-35cd011440c4)
+![IMG-20240912-WA0007](https://github.com/user-attachments/assets/f8d1e73f-2317-4f15-b2ec-1b703583d5bd)
+![IMG-20240912-WA0008](https://github.com/user-attachments/assets/1b9bb021-4702-416e-b368-c244b8ffd2ae)
