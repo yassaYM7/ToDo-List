@@ -13,14 +13,19 @@ A simple and elegant To-Do List app built using Flutter. This app allows users t
 
 ## APP Preview
 
-## Demo GIF
-__________________
+## 1.Demo GIF
 #### - Check out this quick demo of the app in action:
+__________________
 ![GIF(1)](https://github.com/user-attachments/assets/7ffbcacb-3d37-4ff6-8e1f-ce5297824e23)
-___________________
-## Screenshots
+
+
+
+
+## 2.Screenshots
 
 #### - Here are some screenshots of the app:
+___________________
+
 
 ![IMG-20240912-WA0005](https://github.com/user-attachments/assets/1501fe0c-0ea4-4a91-83be-e3e8850fe7cc)
 ![IMG-20240912-WA0006](https://github.com/user-attachments/assets/de0e4910-6dcb-4878-afc1-35cd011440c4)
