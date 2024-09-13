@@ -31,3 +31,9 @@ ___________________
 ![IMG-20240912-WA0006](https://github.com/user-attachments/assets/de0e4910-6dcb-4878-afc1-35cd011440c4)
 ![IMG-20240912-WA0007](https://github.com/user-attachments/assets/f8d1e73f-2317-4f15-b2ec-1b703583d5bd)
 ![IMG-20240912-WA0008](https://github.com/user-attachments/assets/1b9bb021-4702-416e-b368-c244b8ffd2ae)
+![WhatsApp Image 2024-09-13 at 11 47 18_ec003591](https://github.com/user-attachments/assets/c9ef9988-852a-43ee-948b-4077cda54d61)
+![WhatsApp Image 2024-09-13 at 11 47 18_f91b4b20](https://github.com/user-attachments/assets/9b6fe165-d13e-4326-b221-f80809f539ff)
+
+
+
+
